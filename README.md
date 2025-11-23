@@ -9,7 +9,7 @@ I am a Front End Developer who loves React.
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyPortfolio](http://rg98098.github.io/responsive_portfolio_2023/)
 * ✉️  You can contact me at [rg98098@gmail.com](mailto:rg98098@gmail.com)
-* 🚀  I'm currently working on [USBank](http://usbank.com/index.html)
+* 🚀  I'm currently working on [USBank](http://usbank.com/index.html), [Pearson Plus](https://www.pearson.com/en-us.html)
 * 🧠  I'm learning Node JS
 * 🤝  I'm open to collaborating on React Based projects
 * ⚡  Face Reader
